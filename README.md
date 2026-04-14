@@ -43,4 +43,5 @@ This project provided hands-on experience in classification algorithms, data vis
 
 ## ▶️ How to Run
 1. Install required libraries
-2.Run the python file
+   
+2. Run the python file
